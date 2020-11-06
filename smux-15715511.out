@@ -1,0 +1,5 @@
+  PID TTY      STAT   TIME COMMAND
+22225 ?        S      0:00 /bin/bash /opt/slurm/var/spool/job15715511/slurm_script
+22232 ?        Ss     0:00 tmux new-session -d -s interactive_session bash
+22233 pts/0    Rs+    0:00 bash
+22245 ?        R      0:00 ps x
